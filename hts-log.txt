@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Dec 2021 18:05:40 at https://mobidrive.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://mobidrive.com.br/ -O1 "C:\Meus Sites\FELIPE NATAL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:05:55	Error: 	"Not Found" (404) at link https://mobidrive.com.br/assets/vendor/aos/aos.css (from https://mobidrive.com.br/)
+18:05:55	Error: 	"Not Found" (404) at link https://mobidrive.com.br/assets/vendor/bootstrap-icons/bootstrap-icons.css (from https://mobidrive.com.br/)
+18:06:00	Error: 	"Not Found" (404) at link https://mobidrive.com.br/assets/vendor/aos/aos.js (from https://mobidrive.com.br/)
+18:06:04	Error: 	"Not Found" (404) at link https://mobidrive.com.br/post (from https://mobidrive.com.br/)
+18:06:04	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/assets/vendor/boxicons/fonts/boxicons.woff2
+18:06:04	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/assets/vendor/boxicons/fonts/boxicons.woff
+18:06:04	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/assets/vendor/boxicons/fonts/boxicons.ttf
+18:06:08	Error: 	"Not Found" (404) at link https://mobidrive.com.br/plano-premium/politica-privacidade/ (from https://mobidrive.com.br/plano-premium/)
+18:06:09	Error: 	"Not Found" (404) at link https://mobidrive.com.br/plano-advanced/politica-privacidade/ (from https://mobidrive.com.br/plano-advanced/)
+18:06:10	Error: 	"Not Found" (404) at link https://mobidrive.com.br/plano-vip/politica-privacidade/ (from https://mobidrive.com.br/plano-vip/)
+18:06:10	Error: 	"Not Found" (404) at link https://mobidrive.com.br/politica-privacidade/politica-privacidade/ (from https://mobidrive.com.br/politica-privacidade/)
+18:06:17	Error: 	"Not Found" (404) at link https://mobidrive.com.br/index.php (from https://mobidrive.com.br/confirmacao_contato.php)
+18:06:17	Error: 	"Not Found" (404) at link https://mobidrive.com.br/contato.php (from https://mobidrive.com.br/confirmacao_contato.php)
+18:06:17	Error: 	"Not Found" (404) at link https://mobidrive.com.br/tracker2/Imagens/load.gif (from https://mobidrive.com.br/plano-premium/contratar.php)
+18:06:18	Error: 	"Not Found" (404) at link https://mobidrive.com.br/plano-vip/post (from https://mobidrive.com.br/plano-vip/contratar.php)
+18:06:18	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+18:06:18	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+18:06:18	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+18:06:19	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/fonts/glyphicons-halflings-regular.woff2
+18:06:19	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/fonts/glyphicons-halflings-regular.woff
+18:06:19	Warning: 	File not parsed, looks like binary: https://mobidrive.com.br/fonts/glyphicons-halflings-regular.ttf
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 106 links scanned, 93 files written (13725156 bytes overall) [13641177 bytes received at 349773 bytes/sec], 174980 bytes transferred using HTTP compression in 14 files, ratio 28%, 7.7 requests per connection
+(12 errors, 9 warnings, 0 messages)
